@@ -1,0 +1,17 @@
+#header{
+    color: blueviolet;
+}
+
+.myclass{
+    color:rgb(16, 31, 31);
+    background-color: rgb(135, 184, 222);
+    text-align: center;
+    width: 200px;
+    height: 150px;
+    margin: 10px;
+    border: 1px dotted black;
+    border-radius: 50%;
+    margin-top: 20px;
+    padding-top: 20px;
+}
+
